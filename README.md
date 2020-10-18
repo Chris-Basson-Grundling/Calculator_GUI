@@ -13,6 +13,6 @@ What can the calculator do:
 
  
 To run application:
-1.) Download GUI_Calculator file.
-2.) Open MyCalculator.java file in your ide of choice.
-3.) run the Mycalculator.java file.
+ 1.) Download GUI_Calculator file.
+ 2.) Open MyCalculator.java file in your ide of choice.
+ 3.) Run the MyCalculator.java file.
